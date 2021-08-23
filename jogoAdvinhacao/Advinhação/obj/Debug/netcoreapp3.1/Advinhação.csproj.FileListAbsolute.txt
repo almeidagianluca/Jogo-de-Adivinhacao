@@ -1,0 +1,13 @@
+C:\Users\almei\source\repos\Advinhação\Advinhação\bin\Debug\netcoreapp3.1\Advinhação.exe
+C:\Users\almei\source\repos\Advinhação\Advinhação\bin\Debug\netcoreapp3.1\Advinhação.deps.json
+C:\Users\almei\source\repos\Advinhação\Advinhação\bin\Debug\netcoreapp3.1\Advinhação.runtimeconfig.json
+C:\Users\almei\source\repos\Advinhação\Advinhação\bin\Debug\netcoreapp3.1\Advinhação.runtimeconfig.dev.json
+C:\Users\almei\source\repos\Advinhação\Advinhação\bin\Debug\netcoreapp3.1\Advinhação.dll
+C:\Users\almei\source\repos\Advinhação\Advinhação\bin\Debug\netcoreapp3.1\Advinhação.pdb
+C:\Users\almei\source\repos\Advinhação\Advinhação\obj\Debug\netcoreapp3.1\Advinhação.csprojAssemblyReference.cache
+C:\Users\almei\source\repos\Advinhação\Advinhação\obj\Debug\netcoreapp3.1\Advinhação.AssemblyInfoInputs.cache
+C:\Users\almei\source\repos\Advinhação\Advinhação\obj\Debug\netcoreapp3.1\Advinhação.AssemblyInfo.cs
+C:\Users\almei\source\repos\Advinhação\Advinhação\obj\Debug\netcoreapp3.1\Advinhação.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\Advinhação\Advinhação\obj\Debug\netcoreapp3.1\Advinhação.dll
+C:\Users\almei\source\repos\Advinhação\Advinhação\obj\Debug\netcoreapp3.1\Advinhação.pdb
+C:\Users\almei\source\repos\Advinhação\Advinhação\obj\Debug\netcoreapp3.1\Advinhação.genruntimeconfig.cache
